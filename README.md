@@ -39,7 +39,7 @@
 ### 🚀 **Projects**
 🔹 **[Weather App 🌤](https://github.com/your-username/weather-app)** – Real-time weather tracking with authentication & MySQL integration.  
 🔹 **[Java Servlet Web Application 🖥](https://github.com/your-username/java-servlet-app)** – Dynamic web app with Java Servlets & JSP.  
-🔹 **[C++ OpenGL Graphics 🖼](https://github.com/your-username/cpp-opengl-graphics)** – 3D rendering & interactive controls using OpenGL.  
+🔹 **[C++ OpenGL Graphics 🖼](https://github.com/bego-net/Computer-Graphics/tree/main/Computer%20Graphics)** – 3D rendering & interactive controls using OpenGL.  
 
 > 🏆 **Check out all my projects** at **[My GitHub Repositories](https://github.com/your-username?tab=repositories)**
 
