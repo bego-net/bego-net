@@ -4,7 +4,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://images.app.goo.gl/D3Swqsjr9xhqYhw68" alt="GitHub Banner" width="100%" />
+  <img src="https://github.com/bego-net/bego-net/issues/1#issue-2900314304" alt="GitHub Banner" width="100%" />
 </p>
 
 
