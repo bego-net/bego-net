@@ -4,8 +4,9 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://source.unsplash.com/1200x400/?technology,coding" alt="Tech Banner">
+  <img src="https://images.app.goo.gl/D3Swqsjr9xhqYhw68" alt="GitHub Banner" width="100%" />
 </p>
+
 
 ---
 
