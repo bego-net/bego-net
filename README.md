@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🎓 3rd-year **Computer Science and Engineering** student at **Adama Science and Technology University**  
+- 🎓 4rd-year **Computer Science and Engineering** student at **Adama Science and Technology University**  
 - 💻 Passionate about **Full-Stack Development**, problem-solving, and building innovative software  
 - 🚀 Skilled in **HTML, CSS, JavaScript, Python, Java, C++**  
 - 📚 Currently learning ** Machine Learning**  
