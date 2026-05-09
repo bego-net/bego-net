@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated Typing Header (readme-typing-svg.demolab.com) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Begonet+Debebe+%F0%9F%91%8B;Machine+Learning+Engineer;Backend+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Begonet+Debebe+%F0%9F%91%8B;" alt="Typing SVG" /></a>
 
 <h3 align="center">Machine Learning Engineer & Backend Developer</h3>
 
@@ -34,6 +34,10 @@
 Passionate backend developer focused on building scalable web applications and solving real-world problems.  
 Interested in **Backend Systems, Machine Learning, AI, and Modern Software Engineering.**
 
+<br/>
+
+`Backend Development` · `Machine Learning` · `Full Stack Engineering` · `REST APIs` · `System Design`
+
 </div>
 
 ---
@@ -43,9 +47,53 @@ Interested in **Backend Systems, Machine Learning, AI, and Modern Software Engin
 ## 💻 Tech Stack
 
 <!-- skillicons.dev — use "postgres" not "postgresql" -->
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,nodejs,express,mongodb,postgres,mysql,laravel,git,github&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,postgres,mysql,laravel,git,github&theme=dark" alt="Tech Stack" />
 
 </div>
+
+---
+
+<div align="center">
+
+## 🏆 Featured Projects
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Lost & Found Platform</h3>
+      <p align="center">
+        A modern full-stack lost and found platform that helps users report, search, and recover lost items efficiently.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p align="center">
+        <a href="http://lost-and-found-frontend-tau.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00FFCC?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+        <a href="https://github.com/bego-net/lost-and-found-frontend"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Hawi Website</h3>
+      <p align="center">
+        A modern responsive web platform with clean UI/UX and scalable frontend architecture.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+      </p>
+      <p align="center">
+        <a href="https://hawi-frontend-plum.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00FFCC?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
+        <a href="https://github.com/bego-net/HSS-artisan-api"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
