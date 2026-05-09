@@ -157,7 +157,7 @@ Interested in **Backend Systems, Machine Learning, AI, and Modern Software Engin
 ## 👾 Fun Fact
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=I+enjoy+turning+experimental+prototypes+into+production-ready+services+☕" alt="Fun Fact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=40&lines=I+enjoy+turning+experimental+prototypes+into+production-ready+services+%E2%98%95" alt="Fun Fact" />
 </p>
 
 </div>
