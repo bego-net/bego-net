@@ -1,152 +1,166 @@
-<!-- 
-  GitHub Profile README for: bego-net
-  All URLs verified against production endpoints.
-  No placeholders remain — username bego-net is used everywhere.
--->
 
 <div align="center">
 
-<!-- Animated Typing Header (readme-typing-svg.demolab.com) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Begonet+Debebe+%F0%9F%91%8B;" alt="Typing SVG" /></a>
+# Begonet Debebe
 
-<h3 align="center">Machine Learning Engineer & Backend Developer</h3>
+### Backend Developer | AI & Machine Learning Enthusiast
 
-<!-- Visitor Counter Badge -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=bego-net.bego-net&left_color=1F2328&right_color=00FFCC" alt="Visitors" />
-
-<br/><br/>
-
-<!-- Social Media Badges — Edit the href values to update your links -->
-<a href="https://github.com/bego-net"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/begonet-d-b69b6536a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/virtue5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:begonetdebebe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://begonet-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 About Me
-
-Passionate backend developer focused on building scalable web applications and solving real-world problems.  
-Interested in **Backend Systems, Machine Learning, AI, and Modern Software Engineering.**
+Building scalable backend systems, full-stack applications, and intelligent software solutions.
 
 <br/>
 
-`Backend Development` · `Machine Learning` · `Full Stack Engineering` · `REST APIs` · `System Design`
+<a href="https://begonet-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/begonet-d-b69b6536a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:begonetdebebe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/bego-net">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## 💻 Tech Stack
+I'm a Computer Science and Engineering developer focused on backend engineering and building practical software solutions.
 
-<!-- skillicons.dev — use "postgres" not "postgresql" -->
-<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,postgres,mysql,laravel,git,github&theme=dark" alt="Tech Stack" />
+I enjoy designing REST APIs, developing database-driven applications, and turning ideas into functional products.
 
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Featured Projects
-
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Lost & Found Platform</h3>
-      <p align="center">
-        A modern full-stack lost and found platform that helps users report, search, and recover lost items efficiently.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-      <p align="center">
-        <a href="http://lost-and-found-frontend-tau.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00FFCC?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
-        <a href="https://github.com/bego-net/lost-and-found-frontend"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Hawi Website</h3>
-      <p align="center">
-        A modern responsive web platform with clean UI/UX and scalable frontend architecture.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-      </p>
-      <p align="center">
-        <a href="https://hawi-frontend-plum.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00FFCC?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" /></a>
-        <a href="https://github.com/bego-net/HSS-artisan-api"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+- 🔭 Interested in scalable backend systems and software architecture.
+- 💻 Building full-stack applications with modern technologies.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌱 Learning more about system design, MLOps, and intelligent applications.
+- 🎯 Long-term goal: Becoming an AI Engineer and building impactful technology.
 
 ---
 
-<div align="center">
+## 🛠️ Technical Skills
 
-## 📈 GitHub Analytics
+**Languages**
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bego-net&show_icons=true&theme=tokyonight&hide_border=true)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<br/><br/>
+**Backend Development**
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bego-net&layout=compact&theme=tokyonight&hide_border=true)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-<br/><br/>
+**Frontend Development**
 
-<!-- GitHub Streak Stats — using streak-stats.demolab.com -->
-<img src="https://streak-stats.demolab.com/?user=bego-net&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<br/><br/>
+**Databases**
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bego-net&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFCC&line=00FFCC" alt="Contribution Graph" width="800" />
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-<div align="center">
-
-## ⚡ Current Focus & Learning
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td align="center" width="50%"><b>🔭 Currently Working On</b></td>
-    <td align="center" width="50%"><b>🌱 Currently Learning</b></td>
-  </tr>
-  <tr>
-    <td align="left">
-      <ul>
-        <li>Building resilient backend services and APIs</li>
-        <li>Exploring ML model deployment and MLOps</li>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <li>Scaling systems with event-driven architectures</li>
-        <li>Advanced machine learning techniques and model optimization</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Lost & Found Platform
+
+A full-stack platform that helps people report, discover, and recover lost items.
+
+**Technologies:** React, Node.js, Express, MongoDB.
+
+<a href="https://lost-and-found-frontend-tau.vercel.app/">Live Demo ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Hawi Website
+
+A responsive company web platform developed as part of my software development experience.
+
+**Technologies:** React, Laravel, and associated backend technologies.
+
+<a href="https://hawi-frontend-plum.vercel.app/">Live Demo ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 SACCO Management System
+
+A multi-tenant cooperative management platform supporting savings, lending, membership, and financial operations.
+
+**Technologies:** Laravel 12, React, MySQL.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 EthioGeo
+
+Exploring landmark-based geocoding of natural-language location descriptions for Ethiopian cities.
+
+**Focus:** Geospatial computing, NLP, and location intelligence.
+
+</td>
+</tr>
 </table>
+
+---
+
+## 💼 Experience
+
+### Web Development Intern — Hawi Software Solutions
+
+📍 Adama, Ethiopia | July – September 2025
+
+- Contributed to company website development.
+- Developed and integrated backend APIs.
+- Worked with Laravel, React, and database-driven functionality.
+- Collaborated using Git and GitHub workflows.
+
+---
+
+## 📚 Currently Exploring
+
+- System Design and scalable backend architectures.
+- Advanced Machine Learning.
+- AI-powered applications and intelligent systems.
+- Model deployment and MLOps.
+- Geospatial technologies and Natural Language Processing.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bego-net&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bego-net&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=bego-net&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -154,12 +168,13 @@ Interested in **Backend Systems, Machine Learning, AI, and Modern Software Engin
 
 <div align="center">
 
-## 👾 Fun Fact
+### Let's Build Something Meaningful.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=40&lines=I+enjoy+turning+experimental+prototypes+into+production-ready+services+%E2%98%95" alt="Fun Fact" />
-</p>
+Open to collaboration, learning, and interesting engineering opportunities.
+
+<a href="https://github.com/bego-net">GitHub</a> ·
+<a href="https://www.linkedin.com/in/begonet-d-b69b6536a">LinkedIn</a> ·
+<a href="https://begonet-portfolio.netlify.app/">Portfolio</a> ·
+<a href="mailto:begonetdebebe@gmail.com">Email</a>
 
 </div>
-
-<!-- End of Profile README -->
